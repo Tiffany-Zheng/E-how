@@ -1,0 +1,23 @@
+
+
+@import url("componants/comtainer.css");
+@import url("componants/avatar.css");
+@import url("componants/Button.css");
+@import url("componants/banner.css");
+@import url("componants/card.css");
+body{
+	font-family: arial
+	font-size:18px;
+	text-align: center;
+}
+
+h1,h2,h3{
+	font-family: arial black
+	font-weight:bold;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	text-align: center;
+}
+
